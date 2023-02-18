@@ -34,26 +34,27 @@ The list is not exhaustive and can be modified based on the project requirements
 
 
 
+## One of our Partners wants to build a Mobile Solution for streamlining their business.
 
-## Project Description 2
-One of our partners in the FMCG industry wants to develop a mobile solution to streamline their business. The goal is to create a project plan and identify the features that will be included in both the mobile application and the business backend. We need to come up with a list of features for the mobile application, without any constraints on the number of features. We should keep all types of users in mind, including three types of users.
+The task here is to create a project plan and the features that will be there in the mobile application as well as in the Business Backend. Please provide out the features of the mobile application in bulleted points, there isn’t any constraint on the features limit. Try to figure out more and more possible & logical features in an application keeping all types of Users (3 types) in mind.
 
-## Introduction to the Project
-The FMCG partner wants to create an engagement app for their grocers, where FMCG executives can track the trial history of sample goods referred by grocers to their end customers.
+### Introduction to the Project 2
 
-Before the COVID-19 pandemic, the FMCG company's salespeople used to provide samples of their product to grocery store and pan shop owners. The grocers would then pitch the product to their customers, providing them with a coupon code. Using this code, the consumer would call a helpline number, enter the coupon code, and be tracked by FMCG personnel. This process allowed the agency to track the performance of the grocers.
+One of the FMCG wants to create an engagement app for his/her Grocers, where FMCG executives can track the Trial History of the Sample Goods referred by the Grocers to their end customers.
 
-The FMCG company wants to streamline this process and create a mobile solution to track coupon codes, monitor the performance of grocers, and motivate them to use the app.
+Brief Intent of the Business: Before the Covid 19 pandemic, the salesman of the FMCG used to reach out to the Grocery Shops/Pan Shop Owners and provide them the samples of their product. Once the sample is shared with the Grocer, the Grocer pitches his/her consumer to use the product of the desired FMCG company and provide them the coupon code along as well. Using the coupon code the consumer calls on a helpline no. and enters out that coupon code and is tracked down by the FMCG personnels. Using the unique coupon codes the agency was able to track down the performance of the Groccers.
 
-### Problem Statement
-We need to create a mobile solution to streamline the entire process, including sharing coupon codes with shop owners and monitoring their performance. We need to motivate grocers to install and use the app, which should be gamified, and include gratifications such as foreign trips to the best-performing grocers.
+This model is known as the (Hub and Spoke model)
 
-### Key Points
-An engagement platform for FMCG salespeople to reach out to the retailers in their geographical location
-An engagement platform for grocers and shop owners to receive coupon codes and monitor their daily, weekly, and monthly milestones
-Salespeople can share coupon codes with retailers through the app designed for them, and the codes will be used to track the sales made by the retailers
-Retailers will share coupon codes with customers, and the FMCG company can track the sales made
-A gratification process for retailers to engage more with the application, including possible rewards like cashback
+Problem Statement: We need to create a mobile solution to streamline the complete process. We need to figure out how we can share the coupon code with the Shop Owners and figure out how they are performing i.e. if they are pitching their customers to purchase my goods or not. It doesn’t stop here our major pain point is the motivation factor for the Owners to install and use the app, this whole process should be gamified and there should be a provision for the gratifications as well. Some of the gratification we used to provide in the past were Foreign Trips to the best performing Grocers likewise.
 
-### Product Features
-We need to prepare a product features document that outlines the complete journey for three types of users: grocers, admin, and salespeople. This document should detail the features of the mobile application and the business backend.
+Some Key Points outlined are:
+
+- Engagement platform for the FMCG sales person to outreach to the retailers under his/her Geographical location
+- Engagement Platform for the Grocers and Shop owners to receive the Coupon codes and his daily / Weekly / Monthly milestones that needs to be covered
+- Sales Person will share a coupon code with the retailers through the app designed for him, Coupon code will be used for tracking the sales performed by the retailers
+- Retailers will share the coupon code with the customers and will ask them to perform the required step such as calling on a desired no. and adding out this code so that the FMCG can track out the sales made
+- Gratification process for the retailers so that they can engage more with the application // Figure out the pain points of the retailer and we can suggest out some gratification like Cashback, share some more possible gratification points
+
+Prepare a Product features Doc highlighting out the complete journey for the three Users: Grocers, Admin, & Sales Person.
+
